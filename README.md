@@ -149,6 +149,7 @@ Receive Data: The microservice will respond with a JSON object:
 }
 ```
 
+## UML Diagram 
 
-
+![Screenshot of the UML Diagram.](UMLDiagram.jpg)
 
